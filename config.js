@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "I wish I was there to give you a kiss and a hug princess ;-;",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! I'm the most luckiest guy in the world! hehe 🎉💝💖💝💓",
+        message: "I LOVE YOU SO SO SO SO MUCH MY LITLLE CHOCO BUNNY CUTE!!!",
+        emojis: "🥰🥰🥰"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/donotmbug/video/upload/v1769666400/Clairo_-_Hello_feat._Rejjie_Snow__mp3.pm_aq4zen.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.3                        // Volume level (0.0 to 1.0)
     }
 };
 
